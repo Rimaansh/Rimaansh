@@ -26,6 +26,7 @@ I am an undergraduate student at MIT Manipal with a focus in Information Technol
 
 <p align="left"> <a href="https://discord.com/users/ReiTH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rimaansh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rimaansh-bhargava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rimaansh_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=Rimaansh&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<a href="https://github.com/Rimaansh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimaansh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimaansh&hide_border=true&layout=compact" align="left" /> 
