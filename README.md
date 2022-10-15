@@ -22,9 +22,9 @@ I am an undergraduate student at MIT Manipal with a focus in Information Technol
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-### Socials  
+## Socials  
 
-<p align="left"> <a href="https://discord.com/users/ReiTH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rimaansh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rimaansh-bhargava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rimaansh_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/ReiTH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="45" height="45" /></a> <a href="https://www.github.com/Rimaansh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="45" height="45" /></a> <a href="https://www.linkedin.com/in/rimaansh-bhargava" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" /></a> <a href="https://www.twitter.com/rimaansh_07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="45" height="45" /></a></p>
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=Rimaansh&show_icons=true&count_private=true&hide_border=true" align="left" />  
