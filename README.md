@@ -3,7 +3,7 @@ Hi 👋 My name is Rimaansh Bhargava
 Flutter Developer and Tech Enthusiast 
 -------------------------------------
 
-I am an undergraduate student at MIT Manipal with a focus in Information Technology. I have worked on multiple projects that allow me to put what I learn in class into use practically. I have working level proficiency in computer languages such as Java, Python, C and currently learning Flutter and Dart. I pride myself on being detail-oriented, analytical and driven with intuitive problem-solving skills. I am always on the lookout for opportunities that would help me better adapt to the current tech world and its trends.
+I am an undergraduate student at MIT Manipal with a focus in Information Technology. I have worked on multiple projects that allow me to put what I learn in class into use practically. I have working level proficiency in computer languages such as Java, Python, C, C++ and currently learning Flutter and Dart. I pride myself on being detail-oriented, analytical and driven with intuitive problem-solving skills. I am always on the lookout for opportunities that would help me better adapt to the current tech world and its trends.
 
 * 🌍  I'm based in Manipal, Karnataka. 
 * ✉️  You can contact me at [rimaanshbhargava07@gmail.com](mailto:rimaanshbhargava07@gmail.com) 
