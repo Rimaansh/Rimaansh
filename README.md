@@ -25,17 +25,43 @@ Flutter, React, FastAPI, Unity, Linux, Git, HTML, CSS, Android SDK
 
 ### Engineering Practices
 DSA • OOP • APIs • DBMS • Agile • Network Programming • Data Mining • Automated Testing
+<div align="center">
 
-<div align="left">
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" height="45"/></a>
-<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="45"/></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="45"/></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="45"/></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="45"/></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="45"/></a>
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="45"/></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="45"/></a>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="48" height="48" alt="React" />
+<br/>React
+</td>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" width="48" height="48" alt="C#" />
+<br/>C#
+</td>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="48" height="48" alt="Python" />
+<br/>Python
+</td>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+<br/>Java
+</td>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" width="48" height="48" alt="C++" />
+<br/>C++
+</td>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="48" height="48" alt="Linux" />
+<br/>Linux
+</td>
+<td align="center" width="96">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="48" height="48" alt="Git" />
+<br/>Git
+</td>
+</tr>
+</table>
+
 </div>
+
 
 ---
 
