@@ -95,8 +95,4 @@ DSA • OOP • APIs • DBMS • Agile • Network Programming • Data Mining 
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Rimaansh" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/></a>
-<a href="https://www.linkedin.com/in/rimaansh-bhargava" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/></a>
-<a href="https://twitter.com/rimaansh_07" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40"/></a>
-</p>
+<p align="left"> <a href="https://portfolio-v1-gamma-weld.vercel.app" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="40"/> </a> <a href="https://github.com/Rimaansh" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40"/> </a> <a href="https://www.linkedin.com/in/rimaansh-bhargava" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40"/> </a> <a href="https://leetcode.com/u/rimreith7/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/> </a> <a href="https://twitter.com/rimaansh_07" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40"/> </a> </p>
