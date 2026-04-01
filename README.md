@@ -25,6 +25,7 @@ Flutter, React, FastAPI, Unity, Linux, Git, HTML, CSS, Android SDK
 
 ### Engineering Practices
 DSA • OOP • APIs • DBMS • Agile • Network Programming • Data Mining • Automated Testing
+
 <div align="center">
 
 <table>
@@ -62,7 +63,6 @@ DSA • OOP • APIs • DBMS • Agile • Network Programming • Data Mining 
 
 </div>
 
-
 ---
 
 ## 🚀 Featured Projects
@@ -75,21 +75,36 @@ DSA • OOP • APIs • DBMS • Agile • Network Programming • Data Mining 
 - Integrated **LangGraph, OpenAI, and Hugging Face APIs** for intelligent mission planning and layout generation.
 - Delivered modular microservices supporting **20+ mission configurations**.
 
-### **Avyukt — Mental Wellness App**  
-**Flutter · Dart · Firebase**  
-🔗 https://github.com/Rimaansh/AvyuktSIH  
+---
 
-- Developed a scalable mental-wellness platform enabling secure user–professional interactions.
-- Implemented an **AI-driven DSM-informed chatbot** using NLP and Chat-PDF APIs over **1000+ pages** of curated content.
+### **BugScoutAI — AI-Powered Bug Detection Platform**  
+**Next.js · TypeScript · PostHog API · Clerk**  
+🔗 https://bugscoutai.vercel.app  
+
+- Designed an **AI-driven analysis pipeline** leveraging **NeonDB + ChromaDB vector synchronization** to classify user interactions with **95% accuracy for rage clicks** and **85% precision for UX anomaly detection**.
+- Integrated seamlessly with **PostHog**, enabling ingestion of **1,000+ session recordings per day** via backend APIs **without requiring frontend code changes**.
 
 ---
 
 ## 🏆 Achievements
 
 - 🛰 **NASA Space Apps Challenge – Global Nominee (Dublin, 2025)**  
-  Selected among 70+ participants; project advanced to **Global Judging reviewed by NASA**.
+  Selected among 70+ participants; advanced to **Global Judging reviewed by NASA**.
 
-- 🏅 **Smart India Hackathon & KAVACH Hackathon – National Finalist**
+- 🏆 **Give(a)Go Hiring Hackathon (Dublin) – Winner**
+
+- 🥉 **UCD NetSoc × Arista Networks Coding Competition (2025) – 3rd Place**
+
+- 🏅 **Smart India Hackathon & KAVACH Hackathon – National Finalist (2024)**
+
+---
+
+## 📜 Certifications
+
+- 🥇 **Salesforce Agentblazer Champion (2026)**  
+- 🤖 **Hugging Face AI Agents Course**  
+- 🔗 **Deep Agents with LangGraph — LangChain Academy**  
+- 📱 **Flutter Development Certification — CISCO thingQbator (NASSCOM Authorised)**  
 
 ---
 
